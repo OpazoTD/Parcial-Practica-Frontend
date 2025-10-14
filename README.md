@@ -1,2 +1,2 @@
 # Parcial-Practica-Frontend
-Parcial de front end 7/10
+Recuperatorio de front end 14/10
